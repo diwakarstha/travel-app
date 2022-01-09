@@ -17,9 +17,9 @@ screen shot
 ## Authors
 
 ### 👤 Author
--GitHub: @diwakarstha
--Twitter: @ShresthaDiwaka1
--LinkedIn: LinkedIn
+- GitHub: @diwakarstha
+- Twitter: @ShresthaDiwaka1
+- LinkedIn: LinkedIn
 
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
