@@ -9,7 +9,10 @@ screen shot
 - VSCode, GitHub
 
 ## Live Demo
+[Live Demo Link]()
 
+## Template Credit
+[Template Link](https://www.figma.com/community/file/1034368748569978451)
 
 ## Authors
 
